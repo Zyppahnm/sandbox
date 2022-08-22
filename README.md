@@ -1,2 +1,2 @@
 # sandbox
-testområde
+dette er et testormåde for å krangle med Git
